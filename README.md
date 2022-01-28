@@ -23,7 +23,7 @@ When the program runs you have the following options from the command line:
 
 ## Development
 
-All code so far was written offline on an airplane surrounded by screaming kids. Quality is obviously affacted and the code could do with some cleaning, linting and coverage.
+All code so far was written offline on an airplane surrounded by screaming kids. Quality is obviously affected and the code could do with some cleaning, linting and coverage.
 
 ## Contributing
 
